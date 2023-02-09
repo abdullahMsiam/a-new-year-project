@@ -104,6 +104,10 @@ footer {
     gap: 10px;
 }
 
+.input-item {
+    margin-top: 20px;
+}
+
 .input {
     padding: 15px 20px 15px;
     background-color: #000000;
