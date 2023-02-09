@@ -10,6 +10,11 @@ header {
 
 h1 {
     font-weight: 700;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
 }
 
 .banner {
@@ -39,4 +44,17 @@ h1 {
     align-items: center;
     gap: 100px;
     margin: 0 200px 0;
+}
+
+/* Plans section style */
+.plans {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.plans-info {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 100px 0;
+
 }
