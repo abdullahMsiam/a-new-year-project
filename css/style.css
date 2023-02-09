@@ -1,0 +1,42 @@
+body {
+    margin-top: 0;
+    margin: auto;
+}
+
+/* header section */
+header {
+    margin-top: 0;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.banner {
+    text-align: right;
+    align-items: center;
+    background-image: url(../banner/banner1.png);
+    height: 700px;
+
+    background-repeat: no-repeat;
+    padding-right: 200px;
+    padding-top: 200px;
+}
+
+.btn {
+    background-color: #F15B22;
+    padding: 10px;
+    border: 0;
+    border-radius: 5%;
+    color: aliceblue;
+    font-weight: 700;
+}
+
+/* Failure section style */
+
+.failure {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    margin: 0 200px 0;
+}
